@@ -20,7 +20,7 @@ end entity;
 architecture rtl of Inc16 is
   -- Aqui declaramos sinais (fios auxiliares)
   -- e componentes (outros módulos) que serao
-  -- utilizados nesse modulo.
+  -- utilizados nesse modulo!!!!
 
   component Add16 is
     port(
