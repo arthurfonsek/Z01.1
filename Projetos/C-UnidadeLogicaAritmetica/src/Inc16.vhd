@@ -22,8 +22,6 @@ architecture rtl of Inc16 is
   -- e componentes (outros módulos) que serao
   -- utilizados nesse modulo.
 
-  
-
   component Add16 is
     port(
       a   :  in STD_LOGIC_VECTOR(15 downto 0);
